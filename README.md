@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Sangram Takmoghe 👋
+### Data Analyst | SQL • Python • Power BI • Tableau • Excel
 
-<!--
-**sangramtakmoghe/sangramtakmoghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analytics professional passionate about uncovering business insights, optimizing operations, and building interactive dashboards that drive decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+- **Databases & Querying:** SQL (MySQL / PostgreSQL / SQL Server)
+- **Programming & Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **BI & Visualization:** Power BI (DAX, Power Query), Tableau
+- **Spreadsheets:** Microsoft Excel (Advanced Formulas, Pivot Tables, Dashboards)
+
+---
+
+### 📊 Featured Analytics Projects
+*(Update the links and titles below with your actual repository links!)*
+
+1. **[Project 1 Title — e.g., Customer Retention & Sales Dashboard](https://github.com/sangramtakmoghe)**
+   - **Tools:** Power BI, DAX, Power Query
+   - **Focus:** Analyzed customer purchasing behavior, retention trends, and key revenue drivers.
+
+2. **[Project 2 Title — e.g., Interactive Tableau Performance Dashboard](https://github.com/sangramtakmoghe)**
+   - **Tools:** Tableau, Excel
+   - **Focus:** Built dynamic KPI views to track regional performance and operational metrics.
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/sangramtakmoghe](https://www.linkedin.com/in/sangramtakmoghe/)
